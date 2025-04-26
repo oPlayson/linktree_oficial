@@ -1,0 +1,33 @@
+.links{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.links a{
+    padding: 10px 20px;
+    background-color: #ac2c2c;
+    border-radius: 10px;
+    color: #fff;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+body{
+    background-color: #d3bcbc;
+}
+
+.header h1{
+    color: #fff;
+    text-align: center;
+}
+.header h2{
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.icon1 {
+  text-align: center;
+  display: block;
+  margin-bottom: 40px;
+}
